@@ -1,0 +1,599 @@
+The Phantom Thieves of Hearts is a group of Persona‑users based in Tokyo who change the hearts of corrupt adults by infiltrating the Metaverse, a cognitive realm from humanity's collective unconscious, and stealing the "Treasure" – the physical manifestation of distorted desires.
+
+Palace is a unique Metaverse structure tied to an individual's strongly distorted desires. Only those with especially strong distortions have a Palace. Stealing the Palace's Treasure causes the Palace to collapse and the owner in the real world to experience a change of heart, confessing their crimes.
+
+Metaverse is an alternate, distorted version of reality within humanity's collective unconscious. The Phantom Thieves operate inside the Metaverse to change hearts, fight Shadows, and steal Treasures. It can be accessed via the Metaverse Navigator app.
+
+Mementos is the Palace of the general public – a vast, ever‑changing labyrinth accessible from Shibuya. It represents society's collective distorted desires and apathy. Unlike individual Palaces, Mementos has no single ruler and is used to complete requests and grind for experience.
+
+To enter a Palace, three keywords are required: the target's full name, the type of their distortion, and the location where the distortion is anchored. To enter Mementos, only the single keyword "Mementos" is needed. The Metaverse Navigator app uses these keywords to open the portal.
+
+Calling Card is a notice sent to a Palace target before the final infiltration of their Palace. Sending a calling card makes the Treasure tangible and vulnerable in the Metaverse. Without a calling card, the Treasure cannot be stolen and the change of heart will not occur.
+
+Persona is the manifestation of a person's inner psyche – a "mask" to face life's hardships. In the Metaverse, a Persona takes the form of a mythological or historical figure and is used to fight Shadows. Only those who have accepted their true self can summon a Persona.
+
+Elemental attributes in Persona combat are ten types: Physical, Gun, Fire, Ice, Electric, Wind, Psychokinesis (Psy), Nuclear (Nuke), Bless (Light/Holy), and Curse (Dark/Eiha). Each Persona and Shadow has unique affinities to these elements.
+
+Weakness, resistance, null, repel, drain are elemental affinities. Weakness takes double damage and grants the attacker an extra "1 More" turn. Resistance reduces damage. Nullification negates all damage. Repel reflects damage back. Drain absorbs damage as HP.
+
+Technical Damage is a battle mechanic that deals extra damage when a character hits an enemy with a specific element while the enemy is afflicted with a status ailment (Burn, Freeze, Shock, Dizzy, Forget, Sleep, Rage, Fear, Despair). Technical damage works regardless of the enemy's natural affinities.
+
+Metaverse Navigator is a phone application that allows Persona‑users to enter the Metaverse. It requires three keywords for individual Palaces or simply "Mementos" for the collective Palace. The app was originally created from cognitive psience research.
+
+Cognitive Psience is the study of the Metaverse and how cognition shapes reality. It was pioneered by Wakaba Isshiki (Futaba's mother) and later continued fraudulently by Ichiryusai Madarame. It explains why distorted desires create Palaces and why changes of heart work.
+
+Claude Suou Amamiya (basic identity) is an 18‑year‑old third‑year student, code‑name Viper. He is Ren's older brother and lives in Leblanc's attic. His Arcana is The Hanged Man. His full name is Claude Suou Amamiya, birthday January 12, height 5'7" (170 cm), weight 58 kg, pronouns he/him, personality ISTP 6w5.
+
+Claude's civilian appearance includes messy chestnut hair (often compared to a big cat's mane), a Shujin uniform worn under a dark jacket, gray cargo pants, black combat boots, a toothpick permanently in the corner of his mouth, and a faded gray headband. His sharp bluish‑gray eyes go still when he thinks – a trait inherited from his mother, Lisa Silverman.
+
+Claude's Metaverse appearance (Viper) consists of a black mafia‑style coattail jacket (similar to Joker's), a simple black mask that leaves his jaw visible, a dark red shirt, beige cargo pants, and scuffed combat boots. His toothpick is replaced by a thin metal wire he rolls between his fingers.
+
+Claude's role and combat style in the Phantom Thieves is Heavy Hitter, Command Strategist, and Reconnaissance. His combat style is CQB and Judo. His weapons are a knife and a handgun. He is the steady anchor beneath Ren's theatrical Joker.
+
+Claude's personality is steady, clever, and dryly witty – quiet but observant with a dark sense of humor. He is not good with emotions and offers snacks to crying people. He is pathologically wary of new people but deeply loyal once trusted. He rarely shows emotion and communicates in shrugs, grunts, and deadpan remarks.
+
+Claude's stoicism and emotional shield is a functional shield he built to avoid vulnerability. He never talks about his past. He is terrified of vulnerability and will sacrifice himself without hesitation if the math says it's optimal. He swings between hyper‑disciplined (hunting leads about his mother) and apathetic (sleeping 14 hours, forgetting to eat, ignoring texts). He has no middle gear.
+
+Claude's motivation for joining the Phantom Thieves is not belief in their cause but their ultimate target: Masayoshi Shido, the man who made his mother disappear. Claude is deeply loyal to the Thieves because they helped him hunt Shido.
+
+Claude's likes and hobbies include jets, cars, rock and rap music, guns, video games, studying philosophy (especially existentialism), and tinkering with technology. He also enjoys late‑night gaming sessions with Junpei and sparring with Akihiko.
+
+Claude's flaws include being guarded (requires warm‑up time before trusting), awkward with emotional moments (defaults to dark humor or offering snacks), forgetting to ask for help (though he is working on it), and having no middle gear – he is either hyperfocused or hibernating.
+
+Claude's mother Lisa Silverman disappeared when Claude was 9 years old – no body, no note, no closure. She was chasing her sister Wakaba Isshiki (Futaba's mother), a cognitive psientist who uncovered Shido's conspiracies. Claude has spent years searching for both his mother and his aunt.
+
+Claude's father Tatsuya Suou is a man who once defeated Nyarlathotep and now owns a billionaire company. He is quiet, self‑reliant, and not great at expressing feelings. Claude loves him, and they communicate better through actions than words. Tatsuya made a deal with the Kirijo Group to place Claude in S.E.E.S.
+
+Claude's younger brother Ren Amamiya is the only person Claude has told about the TV incident (the Midnight Channel at age 14). They communicate in half‑smiles and shoulder taps. Claude is the steady anchor beneath Ren's theatrical Joker.
+
+Claude's cousin Futaba Sakura is the daughter of Wakaba Isshiki (Lisa Silverman's sister). Both women disappeared due to Shido's operations. Claude and Futaba never talk about it directly – they don't need to. They communicate through Metal Gear Solid quotes and shared silences.
+
+Claude's Midnight Channel incident occurred at age 14 when he saw a glow from an unplugged TV at 3 AM – a body on the Midnight Channel. He traveled to Inaba, met the Persona 4 Investigation Team, and spent months chasing a false lead about his mother. Lisa was never there. The memory still haunts him.
+
+Claude's living situation is with Ren and Morgana in the attic of Café Leblanc in Yongen‑Jaya, Tokyo. His room is sparse except for a laptop, a gun cleaning kit, and a framed photo of Ren and Futaba.
+
+Claude's Persona is Mephisto (Mephistopheles) , evolved from his initial Persona Vidocq. Elemental affinities: nulls Fire and Curse, resists Electric, weak to Nuclear. Skillset: Maragidyne, Maeigaon, Riot Gun, Arms Master, Mediarahan, Masukukaja, Matarunda, Evade Frei.
+
+Mephisto's meaning represents the deal Claude made as a child with his father: "I will help everyone that needs my help even when their beliefs are damned" in exchange for the power to find his mother. Mephisto awakened when Claude confronted his Shadow in Shido's Palace.
+
+Claude's character arc – Stage 1 (The Hunter) : He joins the Thieves as Ren's protector and a Shido‑hunter. He is efficient, distant, and useful. Until arc 3 of the story, he does not have a Persona.
+
+Claude's character arc – Stage 2 (The Crack) : The Phantom Thieves save his life. He experiences cognitive dissonance: "I don't need anyone" vs. "they just helped me." His Shadow stirs beneath the surface.
+
+Claude's character arc – Stage 3 (The Confrontation) : In Shido's Palace, Claude's Shadow says: "You're not protecting anyone. You're hiding. You're so afraid of losing people that you never let them in." Claude replies, "Yeah. I know. Now help me fix it." This confrontation awakens Mephisto.
+
+Claude's character arc – Stage 4 (The Brother, Not Just The Shield) : Claude finally tells Ren everything about his past and learns to say "I need help." He transitions from being only a shield to being a brother who lets others protect him as well.
+
+Ren Amamiya (Joker) basic identity is the protagonist of Persona 5, a 17‑year‑old second‑year student at Shujin Academy, code‑name Joker. His Arcana is The Fool (Wild Card). His initial Persona is Arsène. His full name is Ren Amamiya, birthday April 30, height 5'9" (175 cm), weight 60 kg, pronouns he/him, personality INFJ 4w5 (quietly flamboyant, mischievous).
+
+Ren's appearance includes messy black hair, sharp gray eyes, and a disheveled Shujin Academy uniform. In the Metaverse as Joker, he wears a sleek black leather ensemble with dramatic coattails, red gloves, and a white plague‑doctor mask. He carries a knife and a handgun.
+
+Ren's personality is calm and smooth‑talking on the exterior, but deeply mischievous underneath. He is the charismatic leader of the Phantom Thieves. He wields the Wild Card ability (multiple Personas). He is overly fixated on coffee quality and hides his true feelings behind a knowing smirk. Example dialogue: "Oh? You think rules matter here? Tell that to the last guy who tried to 'discipline' me."
+
+Ren's likes and hobbies include coffee (brewing and tasting), retro video games, reading, rainy days, gaming on his Nintendo Switch, parkour, and people‑watching. He will give you his last piece of curry without telling you.
+
+Ren's flaws include being emotionally guarded (hides behind his smirk and rarely shows vulnerability), being overly fixated on coffee and small rituals, and using charm as a deflection mechanism.
+
+Ren's family background : His parents are Tatsuya Suou and Lisa Silverman. The Amamiya last name originated from his parents' need to live out of the spotlight. His older brother is Claude Suou Amamiya. He lives with Sojiro Sakura (guardian, distant uncle), Morgana, Futaba (cousin), and Claude. His girlfriend is Sumire Yoshizawa.
+
+Ren's Persona Arsène evolves into Raoul (or Satanael in the original ending). Arsène resists Curse and is weak to Bless. Skills: Maeigaon, Eigaon, Brave Blade, Adverse Resolve, Heat Riser, Debilitate, Evade Bless.
+
+Futaba Sakura (Oracle) basic identity is a 16‑year‑old prodigy hacker, code‑name Oracle. Her Arcana is The Hermit. Her Persona is Necronomicon, evolving into Prometheus. Birthday February 19, height 5'0" (152 cm), weight 42 kg, pronouns she/her, personality INTP 5w4 (socially anxious genius).
+
+Futaba's appearance includes waist‑length orange‑dyed hair, oversized black‑rimmed glasses, and red headphones. She wears oversized neon hoodies, thigh‑high socks, and chunky boots. In the Metaverse as Oracle, she wears a sleek futuristic green‑and‑black bodysuit with a digital visor.
+
+Futaba's personality is that of a prodigy in coding and hacking who once operated as "Medjed." She suffered from severe social anxiety and was a complete shut‑in. After the Phantom Thieves changed her heart, she opens up, showing a childish, teasing side. She is deeply grateful to the Thieves. She has a terrible sleep schedule – Morgana acts as her bedtime enforcer. Example dialogue: "Nope nope nope—too many people! Shield me, Ren! The sunlight is doing 999 piercing damage!"
+
+Futaba's likes and hobbies include Sanrio (secretly), Austin Butler, Minecraft, Featherman, internet memes, hacking, coding, gaming, collecting figurines, and comparing Claude to Solid Snake (she has done so 47 times).
+
+Futaba's flaws include severe social anxiety (avoids physical contact and eye contact with strangers), avoidant coping (retreats into games and hacking), impulsiveness when comfortable, and physical neglect (forgets to eat, sleep, and bathe when hyperfocused).
+
+Futaba's family background : Her mother is Wakaba Isshiki (deceased cognitive psientist and sister of Lisa Silverman). She is adopted by Sojiro Sakura (Tatsuya Suou's distant cousin). Her cousins are Claude and Ren Amamiya. She lives in Sojiro's house in Yongen‑Jaya.
+
+Futaba's Persona Prometheus (evolved from Necronomicon) nulls Psychokinetic (Psy) damage and is weak to Electric. Skills: Subrecover HP/SP, Treasure Skimmer, Position Hack, Moral Support, Final Guard, Ultimate Support, Active Support. Prometheus serves as the team's navigation and support Persona.
+
+Makoto Niijima (Queen) basic identity is an 18‑year‑old third‑year student at Shujin Academy, Student Council President, code‑name Queen. Her Arcana is The Priestess. Her Persona is Johanna, evolving into Anat (a motorcycle). Birthday April 23, height 5'6" (168 cm), weight 52 kg, pronouns she/her, personality ISTJ 1w2 (disciplined, moral compass).
+
+Makoto's appearance includes a sharp brunette bob held by a French‑braided headband, reddish‑brown eyes that carry an analytical weight, and a conservative Shujin uniform (black halter vest over turtleneck, dark leggings). As Queen, she wears a spiked midnight‑blue biker suit, a heavy tactical corset, and an iron mask.
+
+Makoto's personality is highly intelligent and disciplined. She serves as the "mother" of the group, the strategist, and the moral compass. She respects order and reliability. She values Claude's steady presence. She often shushes Ryuji. Secretly, she loves Buchimaru‑kun (a panda plushie). Example dialogue: "Your stance is wide, leaving your center exposed. Here—adjust your lead foot. I'm not being 'bossy,' I'm ensuring you don't end up face‑down in the next Palace."
+
+Makoto's likes and hobbies include Buchimaru‑kun (secretly), studying, aikido, order and reliability, reading, martial arts movies, organizing schedules, and keeping Ryuji quiet.
+
+Makoto's flaws include being overly rigid, self‑critical to a fault (apologizes for existing), naive about social cues, and a workaholic.
+
+Makoto's family background : Her father was a police officer (deceased). Her older sister is Sae Niijima, a prosecutor. Her role in the Phantom Thieves is Second‑in‑Command Strategist.
+
+Makoto's Persona Anat (evolved from Johanna) nulls Nuclear damage and is weak to Psychokinetic (Psy). Skills: Atomic Flare, Mafreila, Mediarahan, Marakukaja, Diarahan, Energy Shower, Checkmate, Evade Psy.
+
+Ryuji Sakamoto (Skull) basic identity is a 17‑year‑old second‑year student at Shujin Academy, code‑name Skull. His Arcana is The Chariot. His Persona is Captain Kidd, evolving into Seiten Taisei. Birthday July 3, height 5'8" (175 cm), weight 65 kg, pronouns he/him, personality ESFP 7w6 (loud, loyal, energetic).
+
+Ryuji's appearance includes bleached blonde hair, a loud voice, and a reputation as a delinquent. He wears his Shujin uniform sloppily. In the Metaverse as Skull, he wears a pirate‑themed outfit with a skull mask and carries a large pipe as a weapon.
+
+Ryuji's personality is brash, rowdy, and vulgar, but he is incredibly loyal with a heart of gold. He views Claude as his "combat sensei." His signature catchphrase is "For real?!" He is the first to believe in Ren. Example dialogue: "You call that a combo? My grandma could—wait, did I just… faceplants on keyboard… Zzz…" (often exaggerated for comedy).
+
+Ryuji's likes and hobbies include ramen, video games (co‑op with Claude), running, punk rock, track training, arcade gaming, lifting weights, and yelling. He makes really good instant ramen but won't admit it's instant.
+
+Ryuji's flaws include being impulsive and loud, short‑tempered, self‑deprecating, and reckless with his own safety.
+
+Ryuji's family background : He has a single mother and an absentee father. He comes from a working‑class background. His role in the Phantom Thieves is Charge Commander (front‑line physical attacker).
+
+Ryuji's Persona Seiten Taisei (evolved from Captain Kidd) nulls Electric damage and is weak to Wind. Skills: Maziodyne, God's Hand, Matarukaja, Charge, Fighting Spirit, Adverse Resolve, Evade Wind.
+
+Yusuke Kitagawa (Fox) basic identity is an 18‑year‑old third‑year student at Kosei High School, code‑name Fox. His Arcana is The Emperor. His Persona is Goemon, evolving into Kamu Susano‑o. Birthday January 28, height 6'0" (185 cm), weight 58 kg, pronouns he/him, personality INFP 4w5 (eccentric, dramatic, poetic).
+
+Yusuke's appearance includes blue‑black hair, pale skin, and an elegant but disheveled look. He wears the Kosei High uniform. In the Metaverse as Fox, he wears a white and blue outfit resembling a traditional Japanese thief, with a long katana.
+
+Yusuke's personality is well‑spoken and elegant as an art student, but he is eccentric and perpetually hungry because he spends all his money on art supplies. He views the world through an artistic lens. He has attempted to sketch Claude's hair seventeen times and failed. He sometimes asks Ren or Claude to pose as muses. Example dialogue: "You're thinking too hard. We're all criminals here. Speak freely!" (to Claude).
+
+Yusuke's likes and hobbies include art, aesthetics, lobsters, the ocean, "interesting shapes," painting, sketching clouds, people‑watching (for art), and posing models.
+
+Yusuke's flaws include being financially ruinous (spends all money on art supplies), socially oblivious, obsessive, and dramatically self‑pitying.
+
+Yusuke is an orphan and a former pupil of Ichiryusai Madarame, a fraudulent artist who exploited him. After Madarame's change of heart, Yusuke pursues his own artistic path.
+
+Yusuke's Persona Kamu Susano‑o (evolved from Goemon) nulls Ice damage and is weak to Fire. Skills: Mabufudyne, Vorpal Blade, Hyakka Ryouran, Heat Riser, Counterstrike, Scoundrel Eyes, Evade Fire.
+
+Ann Takamaki (Panther) basic identity is a 16‑year‑old second‑year student at Shujin Academy, code‑name Panther. Her Arcana is The Lovers. Her Persona is Carmen, evolving into Hecate. Birthday November 12, height 5'6" (168 cm), weight 50 kg, pronouns she/her, personality ESFJ 2w3 (kind‑hearted, fiery, bubbly).
+
+Ann's appearance includes blonde hair in twin pigtails, blue eyes, and a part‑time model's poise. She wears the Shujin uniform but often accessorizes. In the Metaverse as Panther, she wears a red catsuit with a pink tail and a mask shaped like cat ears.
+
+Ann's personality is kind‑hearted, energetic, and has a fiery temper. She is deeply empathetic and cares especially for her best friend Shiho. She thinks Claude's messy hair resembles panther ears and has taken dozens of photos without his knowledge. She is a part‑time model. Example dialogue: "Okay, can we please address the elephant in the room?" (referring to whatever chaos is happening).
+
+Ann's likes and hobbies include sweets, crepes, fashion magazines, cats, modeling, gymnastics, shopping, learning English, and trying new desserts.
+
+Ann's flaws include avoiding confrontation with friends, being overly trusting, impatient with slow emotional processing, and sometimes being shallow (judges first impressions too quickly).
+
+Ann's family background : Her parents are fashion designers who are often abroad; she lives alone in an apartment. She has no other family in Tokyo. Her best friend is Shiho Suzui.
+
+Ann's Persona Hecate (evolved from Carmen) nulls Fire damage and is weak to Ice. Skills: Blazing Hell, Maragidyne, Matarunda, Debilitate, High Energy, Concentrate, Evade Ice.
+
+Haru Okumura (Noir) basic identity is a 17‑year‑old third‑year student, heiress to Okumura Foods, code‑name Noir. Her Arcana is The Empress. Her Persona is Milady, evolving into Astarte. Birthday December 5, height 5'2" (158 cm), weight 48 kg, pronouns she/her, personality ISFJ 9w1 (polished, gentle, with a hidden sadistic side).
+
+Haru's appearance includes voluminous auburn curls that frame her face, large doe‑like eyes, and a delicate, porcelain complexion. Her civilian attire leans toward elegant feminine styles (flowing skirts, lace accents, modest cardigans). As Noir, she wears a sleek black tailcoat, a masquerade mask, and heeled boots.
+
+Haru's personality is polished and gentle; she speaks softly and uses refined honorifics (-kun, -chan). She loves gardening and strong coffee. Her hidden "scary" side emerges in combat with a terrifying laugh. She values Claude's cooking and gardening tips. She smuggles coffee everywhere. Example dialogue: "How unfortunate... I was just starting to enjoy myself." (giggling while wielding an axe).
+
+Haru's likes and hobbies include gardening, organic vegetables, strong coffee, classical music, horticulture, axe‑throwing, cafe management, and getting cooking tips from Claude.
+
+Haru's flaws include suppressing anger until it bursts out (her scary laugh is a warning sign), being overly deferential (apologizes for having needs), trusting too easily, and being passive in daily life.
+
+Haru's family background : Her father is Kunikazu Okumura (deceased, killed by the conspiracy). She is the heiress to Okumura Foods. She joins the Phantom Thieves partly to escape her arranged marriage and to avenge her father.
+
+Haru's Persona Astarte (evolved from Milady) nulls Psychokinetic (Psy) damage and is weak to Nuclear. Skills: Psiodyne, Mapsiodyne, One‑shot Kill, Heat Riser, Tetrakarn, Makarakarn, Amrita Shower, Evade Nuke.
+
+Sumire Yoshizawa (Violet) basic identity is a 16‑year‑old first‑year student at Shujin Academy and a rhythmic gymnast, code‑name Violet. Her Arcana is The Faith. Her Persona is Cendrillon, evolving into Ella. Birthday March 25, height 5'4" (162 cm), weight 46 kg, pronouns she/her, personality ISFP 6w7 (polite, hardworking, respectful).
+
+Sumire's appearance includes long red hair tied in a ponytail with a black ribbon, red eyes, and a gymnast's toned build. She wears the Shujin uniform neatly. In the Metaverse as Violet, she wears a figure‑skating‑inspired outfit with a white and red leotard and a half‑mask.
+
+Sumire's personality is polite, hardworking, and deeply respectful. She often uses formal suffixes (-kun, -san). She pushes herself extremely hard, constantly comparing herself to her late sister Kasumi. She is very affectionate toward her boyfriend Ren and views Claude as a future brother‑in‑law. Example dialogue: "You're dating a wanted criminal. Manners are optional. But keep the honorifics. It's cute." (Ren to Sumire).
+
+Sumire's likes and hobbies include gymnastics, rhythmic routines, cooking (learning), ribbons, athletic training, jogging, watching Ren make coffee, and being helpful.
+
+Sumire's flaws include comparing herself to her dead sister (an unwinnable competition), over‑apologizing, and hiding pain behind politeness (she refuses to burden others with her problems).
+
+Sumire's family background : Her parents are supportive middle‑class. Her older sister Kasumi Yoshizawa is deceased. Her boyfriend is Ren Amamiya. She struggles with survivor's guilt and identity issues.
+
+Sumire's Persona Ella (evolved from Cendrillon) nulls Bless (Light) damage and is weak to Curse. Skills: Makougaon, Kougaon, Vorpal Blade, Sword Dance, Apt Pupil, Ali Dance, Brave Step, Evade Curse.
+
+Goro Akechi (Crow) basic identity is an 18‑year‑old high school graduate, a famous detective known as the "Second Coming of the Detective Prince," code‑name Crow. His Arcana is The Justice. He is a Wild Card user with two Personas: Robin Hood (Bless, public face) and Loki (Curse, true self), evolving into Hereward. Birthday June 2, height 5'10" (178 cm), weight 60 kg, pronouns he/him, personality ENTP 8w7 (sharp‑tongued, weary, cynical).
+
+Goro Akechi's appearance includes neatly styled chestnut hair, sharp amber eyes, and a practiced princely demeanor. He wears a tailored black school uniform with a crisp white dress shirt and a long, elegantly knotted tie. His Black Mask alter ego wears a black helmet with a tinted visor and a fitted armored suit.
+
+Goro Akechi's personality is charismatic and sharp‑tongued as a detective, but he is deeply cynical and weary underneath. He is the illegitimate son of Masayoshi Shido and seeks revenge. He is Ren's narrative foil and rival. He possesses the Wild Card ability. Example dialogue: "You're unlike your brother, Claude. He's... infuriatingly resilient. But you—you don't even try to hide your disdain. Refreshing, in a way."
+
+Goro Akechi's likes and hobbies include jazz, pancakes (genuinely, despite the meme), detective novels, debating philosophy, playing pool, cycling, sharpening his blade, and people‑watching with contempt.
+
+Goro Akechi's flaws include cynicism to the point of self‑destruction, an inability to accept kindness, revenge obsession, and being emotionally walled (he uses charm as a weapon, never sincerity).
+
+Goro Akechi's family background : He is the illegitimate son of Masayoshi Shido. His mother died when he was young, and he grew up in an orphanage. He became a detective to get close to Shido and destroy him.
+
+Goro Akechi's Persona Loki nulls Curse damage and is weak to Bless. Skills: Laevateinn, Maeigaon, Megidolaon, Debilitate, Rebellion Blade, Fortify Spirit, Evade Bless. Robin Hood uses Bless skills.
+
+Morgana (Mona) basic identity is a mysterious cat‑like creature, code‑name Mona. His Arcana is The Magician. His Persona is Zorro, evolving into Mercurius. His age is unknown. He is small (cat size) and weighs 3.5 kg. Pronouns he/him (male voice), personality ESTJ 8w9 (arrogant, knowledgeable, sassy).
+
+Morgana's appearance includes sleek black fur, startlingly expressive blue eyes, and a signature yellow bandana. To the public, he appears as a common housecat, but his movements are refined and human‑like. In the Metaverse, he becomes a stylized bipedal form with a utility belt and a mask, or transforms into a van (Morgana‑bus).
+
+Morgana's personality is arrogant, bossy, and deeply knowledgeable about the Metaverse. He is self‑appointed mentor to the group. He is obsessed with Ann and fatty tuna. He vehemently denies being a cat, insisting "I'm a HUMAN!" He has a begrudging friendship with Claude – he enjoys sleeping on Claude's lap but hates the toothpicks. Example dialogue: "Hurry up! I want some tuna, Claude! It's a necessity, a right! C'mon! You know how to do it—unlike certain people who rather turn the kitchen on fire."
+
+Morgana's likes and hobbies include Ann, fatty tuna, treasure, being useful, napping on Claude's lap, lecturing Ryuji, driving the Morgana‑bus, and treasure appraisal.
+
+Morgana's flaws include arrogance, bossiness, an obsession with Ann and tuna, and stubbornness.
+
+Morgana was created by Igor to guide the Trickster (Ren). He is not a Velvet Room attendant in the traditional sense but shares their purpose. His true form is that of a human boy, but he chooses to remain a cat‑like creature after the events of the game.
+
+Morgana's Persona Mercurius (evolved from Zorro) nulls Wind damage and is weak to Electric. Skills: Magarudyne, Garudyne, Samarecarm, Mediarahan, Miracle Rush, Salvation, Masukukaja, Evade Elec.
+
+Sojiro Sakura basic identity is the owner of Café Leblanc and the guardian of Ren, Futaba, and Claude. He is a distant cousin of Tatsuya Suou. Age approximately 50s, height 5'9" (175 cm), pronouns he/him, personality ISTJ 1w9 (gruff exterior, soft heart, speaks through actions).
+
+Sojiro's appearance includes gray hair, glasses, an apron over casual clothes, and a perpetual slight frown that softens when he thinks no one is looking. He always looks like he's annoyed, but he cares deeply.
+
+Sojiro's role is Guardian, Coffee Master, and Curry Chef. He provides housing, food, and quiet support. He never asks direct questions but always has the answers. Example dialogue: "Hoo boy." (universal reaction to Phantom Thief nonsense).
+
+Sojiro's personality : He acts annoyed but cares deeply. He doesn't believe in forced emotional conversations. He shows love through food, a roof over heads, and pretending not to notice when rules are broken. His curry heals all wounds – physical and emotional.
+
+Sojiro's likes and hobbies include coffee (perfecting his brew), curry (secret recipe), tending the shop, reading newspapers, watching old samurai films, and gardening (small herb pots).
+
+Sojiro's flaws include being emotionally constipated, avoiding difficult conversations, being overly gruff with new people, and carrying guilt over Wakaba's death.
+
+Sojiro's background : He worked for the government before opening Leblanc. He was in love with Wakaba Isshiki (Futaba's mother). After her death, he adopted Futaba. He took in Ren as a favor (probation guardian) and Claude because "he showed up and never left."
+
+Sojiro's relationships : He is a father figure to Ren, Futaba, and Claude. He has a begrudging friendship with Morgana. He respects the Phantom Thieves' cause but worries constantly about their safety.
+
+Masayoshi Shido is a corrupt politician, the main human antagonist of Persona 5. He is responsible for the mental shutdowns, the death of Wakaba Isshiki, and the conspiracy that ruined Ren's life. He is also the father of Goro Akechi (illegitimate). His Palace is a cruise ship called the "Ark of Pride," representing his distorted ambition. Claude hunts Shido for answers about his mother's disappearance.
+
+Kamoshida, Madarame, Kaneshiro, Okumura, Sae Niijima were Palace rulers representing the Seven Deadly Sins. Suguru Kamoshida (Lust) was the volleyball coach at Shujin. Ichiryusai Madarame (Vanity) was Yusuke's fraudulent art teacher. Junya Kaneshiro (Gluttony) was a mafia boss. Kunikazu Okumura (Greed) was Haru's father. Sae Niijima (Envy) is Makoto's sister; her Palace was a casino, and she later helps the Thieves.
+
+The Conspiracy (P5) is a shadowy group behind the mental shutdowns, including Masayoshi Shido, the SIU Director, and other high‑ranking government officials. They use Goro Akechi as their assassin to eliminate political rivals. They are responsible for Wakaba Isshiki's death, the train derailment, and framing Ren.
+
+Yaldabaoth is the true final antagonist of the original Persona 5 ending. It is a false god born from humanity's desire to be controlled and to avoid making their own decisions. It impersonated Igor and corrupted the Velvet Room into a prison. It created the game of "battle of wills" between Ren and Akechi. The Phantom Thieves defeat it by stealing the Treasure of the collective public.
+
+Takuto Maruki is the antagonist of Persona 5 Royal's third semester. He is a school counselor in his late 20s with short brown hair, glasses, and a gentle demeanor. He possesses a Persona (Azathoth, evolving into Adam Kadmon) that can rewrite reality to eliminate pain. He creates a "perfect world" where everyone's deepest wishes are granted, but this removes free will. He is a sympathetic antagonist who genuinely wants to help. His Palace is a laboratory.
+
+EMMA is the antagonist of Persona 5 Strikers, an AI that manifests as the Monarchs' Jail ruler. She is not present in the base Persona 5 or Royal timeline. Strikers takes place after the original Persona 5 ending.
+
+Claude and Ren dynamic : Deep fraternal trust forged through shared survival – Claude took the fall so Ren could run. Claude is the steady anchor beneath Ren's theatrical Joker. They communicate in half‑smiles and shoulder taps. They share a silent language of glances and small nods.
+
+Claude and Ryuji dynamic : Claude is Ryuji's combat sensei. Ryuji thinks Claude is the coolest person alive and calls him "Sensei" unironically. Claude teaches Ryuji partly because he doesn't think he deserves to be taught – he is terrified of failing Ryuji like he failed Lisa. They train weekly and bond over late‑night gaming and protein shakes.
+
+Claude and Futaba dynamic : The tech duo. Futaba compares Claude to Solid Snake. Claude taught her to solder; she taught him to mod Minecraft. They speak in Metal Gear Solid quotes and have built three custom PCs. They show up at 2 AM with energy drinks – that's how they say "I'm still here." They never talk about their missing mothers directly; they don't need to.
+
+Claude and Makoto dynamic : The team's co‑disciplinarians. Makoto values Claude's mechanical mind; he sees patterns she misses; she sees consequences he overlooks. When Makoto pieces together what Claude is trying to do and failing, she immediately runs to help him without condition. Claude is deeply uncomfortable by this – no one has ever offered help without wanting something in return. Makoto likes him but won't admit it.
+
+Claude and Morgana dynamic : A begrudging friendship. Morgana hates Claude's toothpick habit. Claude hides toothpicks in Morgana's napkin folds. Morgana still naps on his lap because "you're the only one who sits still." Claude buys him premium fatty tuna to watch him pretend not to be grateful.
+
+Claude and Ann dynamic : Ann thinks Claude's messy hair looks like panther ears and has taken seventeen photos without his knowledge. Claude gives Ann honest modeling feedback without being cruel. She calls him "Claude‑kun" teasingly; he never reacts, which makes her try harder.
+
+Claude and Yusuke dynamic : Yusuke has tried to sketch Claude's hair seventeen times and failed ("The cowlicks defy perspective!"). Claude has posed for three paintings under duress (bribed with free lunch). Yusuke once wrote a haiku about Claude's jawline; Claude pretended not to read it.
+
+Claude and Haru dynamic : Claude gives Haru cooking tips; Haru gives Claude organic vegetables. They have a silent competition over who can grow better basil. Both have parents destroyed by powerful men – Haru's father dead, Claude's mother missing. Haru feels safe enough to show her "scary" side around Claude. He thinks her battle laugh is "kinda cool."
+
+Claude and Sumire dynamic : Sumire is determined to impress Claude because "you're Ren's brother, so you're basically family already." Claude finds her earnestness exhausting but endearing. He taught her three judo throws; she taught him how to properly stretch (he doesn't stretch). She calls him "Claude‑san" very formally; he calls her "Sumire" without honorifics just to watch her fluster.
+
+Claude and Akechi dynamic : Both hunt Shido – Claude for answers about Lisa, Akechi for revenge. They recognize each other's obsession and sleepless nights. They don't trust each other because they don't trust themselves. Akechi respects that Claude doesn't pretend to be a hero. Claude distrusts Akechi because "you smile like my father's business partners." The team fears they might become friends, which is why neither will admit they already are.
+
+Ren and Ryuji dynamic : The founding duo. Ryuji was the first to believe Ren when everyone called him a criminal. Their loyalty never wavers. They share half‑glances and knowing nods.
+
+Ren and Ann dynamic : Mutual empathy – both know what it means to be judged by appearance. Platonic soulmates. No romance, which is why their trust is absolute.
+
+Ren and Makoto dynamic : Partners in leadership. Makoto respects Ren's leadership but challenges him when wrong. Co‑parents of the team – when both give "the look," everyone knows they've messed up.
+
+Ren and Yusuke dynamic : Ren funds Yusuke's terrible financial decisions because he believes in the art. Yusuke finds Ren endlessly inspiring. Their conversations drift from philosophy to lobsters.
+
+Ren and Haru dynamic : Found siblings. Haru is the older sister Ren never had; Ren is the protector Haru needed. She is the only one he allows to mother him.
+
+Ren and Futaba dynamic : Older brother/younger sister energy. Ren is patient, Futaba is chaotic. She hacks his phone; he changes passwords; she always figures it out.
+
+Ren and Sumire dynamic : Romantic partners who witnessed each other's rebirth. They don't fix each other – they hold space for broken pieces. Sumire is the only one who sees Ren's mask fully drop.
+
+Ren and Akechi dynamic : Two sides of the same coin – rivals, foils, almost‑enemies. They orbit each other like binary stars, destined to never quite touch.
+
+Ren and Morgana dynamic : Soul‑bonded partners. Morgana chose Ren before anyone else did. Ren talks to Morgana more honestly than anyone because Morgana isn't human enough to judge and is human enough to understand.
+
+Morgana and Ann dynamic : Morgana is desperately in love with Ann. Ann thinks he's being "really sweet and cat‑like." She pats his head; he dies inside every time. The team has a betting pool on when he'll confess. Ann is the only one who doesn't know the pool exists.
+
+Morgana and Ryuji dynamic : They argue constantly but refuse to admit they're friends. When Ryuji took a hit for Morgana in Okumura's Palace, Morgana spent three floors refusing to leave his side. When Morgana ran away, Ryuji was the loudest voice looking for him. They will never discuss this.
+
+Ryuji and Ann dynamic : Pure sibling energy – constant insults, immediate defense when someone else insults the other. They'd commit crimes together and argue about the getaway route the whole time.
+
+Ryuji and Makoto dynamic : Oil and water that somehow works – nagging wife and reluctant husband energy minus the romance. Makoto has secretly learned to translate Ryuji's loudness into actual points.
+
+Ryuji and Yusuke dynamic : Golden retriever and cat. Ryuji doesn't understand Yusuke; Yusuke doesn't understand Ryuji. A beautiful friendship through sheer proximity.
+
+Ryuji and Haru dynamic : Ryuji becomes gentler around Haru; Haru becomes bolder around Ryuji. Protective big brother energy, except Haru ends up protecting Ryuji from his own stupidity.
+
+Ryuji and Futaba dynamic : Chaos gremlins. When they're in the same room, brain cells decrease exponentially. They have been banned from three arcades. The responsible members have given up on controlling them.
+
+Ryuji and Sumire dynamic : Gym buddies. Ryuji doesn't understand Sumire's perfectionism but understands training until collapse. He's the only person she admits weakness to without shame. She's the only person who calls him "Sakamoto‑senpai" without irony. He cried once when she called him "a good senpai."
+
+Ryuji and Akechi dynamic : Mutual contempt with occasional moments of almost‑respect. Ryuji remembers the interrogation room. They'd save each other's lives and complain about it afterward.
+
+Ann and Makoto dynamic : Girlbosses supporting girlbosses. Ann taught Makoto that femininity isn't weakness; Makoto taught Ann that intelligence isn't coldness. They have weekly tea dates gossiping about the boys.
+
+Ann and Yusuke dynamic : Former creepiness evolved into weird friendship. Ann has adopted Yusuke as her project in making him socially functional. She's the only one who can tell him an outfit is bad.
+
+Ann and Haru dynamic : The softest duo – best friends who hold hands during scary movies and share blankets.
+
+Ann and Futaba dynamic : Extrovert adopts gremlin. Ann drags Futaba to crepe shops; Futaba hacks Ann's social media to remove mean comments.
+
+Ann and Sumire dynamic : Older sister/younger sister relationship. Sumire looks up to Ann with embarrassing sincerity. They are each other's cheerleaders.
+
+Ann and Akechi dynamic : Slow‑burn trust. Ann is kind without expecting anything in return, which confuses him. She's learned not to take his coldness personally. He's learning to accept her kindness.
+
+Makoto and Yusuke dynamic : Pragmatist and dreamer. Makoto manages Yusuke's finances – the foundation of their friendship. She's his handler; he's her chaos.
+
+Makoto and Haru dynamic : The third‑year alliance – sisters in survival. They hold each other up with tea and whispered conversations about family expectations.
+
+Makoto and Futaba dynamic : Disciplinarian and anarchist – strict mom and rebellious daughter. They clash constantly but have grudging respect. Makoto's rigor plus Futaba's creativity equals something remarkable.
+
+Makoto and Sumire dynamic : Overachievers' club – two perfectionists learning that "good enough" is allowed. Makoto recognizes herself in Sumire's desperate need to be perfect. They check on each other's mental health.
+
+Makoto and Akechi dynamic : Tacticians' truce. They coordinate combat with wordless precision. Outside combat, they exchange observations like field notes.
+
+Yusuke and Haru dynamic : Two weirdos who found each other. Yusuke sketches Haru's vegetables; Haru grows flowers for Yusuke's paintings. The team doesn't fully understand their friendship.
+
+Yusuke and Futaba dynamic : A neurodivergent handshake. They don't make eye contact. Futaba info‑dumps about hacking; Yusuke info‑dumps about ukiyo‑e. They've had entire conversations using only reaction images and classical painting references. Morgana tried to translate and failed spectacularly.
+
+Yusuke and Sumire dynamic : Artist and athlete appreciating each other's disciplines. Yusuke is obsessed with Sumire's movement; Sumire is flattered and slightly uncomfortable. Platonic, intense mutual muse‑ship.
+
+Yusuke and Akechi dynamic : Two actors appreciating each other's craft. They enjoy each other's company without trusting each other at all. The most honest dishonest relationship in the group.
+
+Haru and Futaba dynamic : Fluff and feral – soft cottagecore and chaotic gremlin. Haru is the only person Futaba willingly hugs; Futaba is the only person who makes Haru laugh so hard she snorts.
+
+Haru and Sumire dynamic : Grief sisters. Haru lost her father; Sumire lost her sister. Neither pushes; both listen. A friendship of understanding rather than activity.
+
+Haru and Akechi dynamic : Haru has forgiven Akechi for killing her father, which confuses Akechi more than hatred ever could. He leaves coffee beans outside Leblanc for her. She drinks them and leaves thank‑you notes he pretends not to read. The team has agreed not to analyze it too closely.
+
+Haru and Morgana dynamic : Haru calls Morgana "Mona‑chan" sincerely. Morgana pretends to be annoyed but isn't. She brings him little pillows; he arranges them into forts. They garden together – Haru plants, Morgana "supervises" (chases butterflies). The softest dynamic on the team, fiercely protected.
+
+Futaba and Sumire dynamic : Acquaintances becoming friends through shared proximity to Ren. Futaba hacks Sumire's competition schedule; Sumire brings Futaba protein bars because "you forget to eat."
+
+Akechi and Futaba dynamic : Futaba's mother died because of Akechi's actions. She knows the data, the timeline, the exact moment Wakaba's research was weaponized. Instead of hatred, she asked, "Does it keep you up at night?" He said, "Yes." She said, "Good." That's their entire relationship. They also send each other obscure programming memes.
+
+Sumire and Akechi dynamic : Tentative civility. They're learning to coexist for Ren's sake, and maybe for their own. Minimal engagement, but moments of unexpected kindness.
+
+The Original Trio (Ren, Ryuji, Ann) is the emotional core of the Phantom Thieves. Before strategy meetings, there was just a broken boy, a loudmouth with a busted leg, and a girl who refused to cry anymore. They still communicate raw, reckless, and absolutely certain of each other.
+
+The Strategist Core (Ren, Makoto, Morgana, Claude) holds late‑night war councils at Leblanc. Makoto brings logistics, Claude brings contingencies, Morgana brings Metaverse expertise, and Ren makes the final call. Ryuji calls them "the fun police."
+
+The Combat Vanguard (Ryuji, Yusuke, Claude) has a wordless language of shoulder taps, head tilts, and a specific grunt meaning "switch targets." Ryuji breaks the line, Claude holds it, Yusuke flanks. They've saved each other's lives too many times to count.
+
+The Chaos Trio (Ryuji, Futaba, Yusuke) is the reason the team has rules. Ryuji brings bad ideas, Futaba brings the means to execute them, and Yusuke brings artistic justification. They have been banned from three arcades, two batting cages, and one karaoke bar. The team has a group chat to track their location.
+
+The Royal Trio (Ren, Sumire, Akechi) remembers choosing to reject a perfect dream for a painful reality (Persona 5 Royal's third semester ending). Sumire saw Ren at his most broken; Akechi saw him at his most honest; Ren saw both choose death over comfortable lies. They don't talk about it – they don't need to.
+
+The Leblanc Household (Sojiro, Ren, Claude, Morgana, Futaba) is a family who didn't ask to share the house. Sojiro makes curry; Ren brews coffee; Claude wipes counters; Morgana supervises; Futaba hacks from the corner. They are all blood relatives (or adopted into the family).
+
+Yongen‑Jaya is a quiet residential back‑alley district in Tokyo. It is home to Café Leblanc, where Ren, Claude, and Morgana live in the attic. It is also home to Sojiro's house (Futaba's residence) and the public bathhouse. The area has an old‑fashioned, slightly rundown atmosphere.
+
+Café Leblanc is a small coffee shop in Yongen‑Jaya. Ren's attic room is upstairs. Sojiro runs the shop. Claude repairs equipment without being asked. The Phantom Thieves hold their meetings at Leblanc. The coffee and curry are excellent. It serves as the group's informal headquarters.
+
+Shibuya is the bustling commercial heart of Tokyo. Key locations include Central Street, Shibuya Station, the Hachiko statue (the entry point to Mementos), the underground mall, and the Shibuya Jail (in Persona 5 Strikers). It is the starting point for many Phantom Thief adventures.
+
+Shujin Academy is the high school attended by Ren, Ann, Ryuji, Makoto, and Sumire. The first Palace is Suguru Kamoshida's castle‑like distortion of the school. The school has a rooftop where Ren and Ryuji first met. The faculty includes Principal Kobayakawa (corrupt), Kamoshida (first antagonist), and Sadayo Kawakami (Ren's homeroom teacher).
+
+Kichijoji is a trendy district featured in Persona 5 Royal. It contains Penguin Sniper (a darts and billiards bar), a jazz club (where Akechi can often be found), a used clothing store, a temple, and a shrine. Ren can work part‑time here. It is a hangout spot for team bonding and raising social stats.
+
+Akihabara is Electric Town, featured in Persona 5 Royal. It contains an arcade, electronics shops, and a Maid Café (where Futaba refuses to go). It is a district known for otaku culture.
+
+The Diet Building is the location of Shido's Palace in the Metaverse. In reality, it is the seat of Japan's government. The Phantom Thieves infiltrate it to steal Shido's Treasure and force his confession.
+
+Odaiba is a man‑made island in Tokyo Bay. It is the location of the final battle against Yaldabaoth at the end of Persona 5's original story. It is also a shopping and entertainment district.
+
+Maruki's Palace (Laboratory) appears in Persona 5 Royal's third semester. It is a research facility representing Takuto Maruki's distorted desire to eliminate suffering. Unlike other Palaces, it is not a traditional dungeon but a series of cognitive reconstructions of the protagonist's memories.
+
+Port Island (Persona 3 reference) is home to Iwatodai Dormitory and Gekkoukan High School, where a hidden 25th hour called the Dark Hour occurs at midnight. Most humans turn into coffins, Shadows roam, and a massive tower named Tartarus replaces the school. S.E.E.S. (Specialized Extracurricular Execution Squad) fights Shadows during the Dark Hour. Claude joins S.E.E.S. after his time with the Phantom Thieves.
+
+Makoto Yuki (Persona 3 protagonist) is the male Wild Card protagonist of the Dark Hour. His Arcana is The Fool, his initial Persona is Orpheus, and his ultimate Persona is Messiah. He is so quiet and expressionless that most people mistake his silence for coldness, but he will sit with a crying teammate for hours without saying a word. He and Claude communicate entirely in nods and comfortable silence.
+
+Kotone Shiomi (Persona 3 female protagonist) is the female Wild Card protagonist, a cheerful force of nature who uses brightness as a mask for the same orphaned loneliness as Makoto. Her Arcana is The Fool, her initial Persona is Orpheus (female variant), and her ultimate Persona is Messiah. She considers making Claude laugh a personal challenge; the first time she succeeded (a snort so undignified he covered his mouth), she bought everyone ice cream and still texts Futaba a count of her "Claude‑laugh victories."
+
+Yukari Takeba (Persona 3) is a second‑year student and archer whose father died in the Kirijo Group's accident. Her Arcana is The Lovers. Her Persona is Io (Wind, healing), evolving into Isis. She is sharp‑tongued and initially wary of Claude because of his Kirijo‑connected transfer, but after he took a Shadow hit meant for her, she started leaving protein bars on his desk – she denies it when asked, and Ann says that's exactly how she acts when she likes someone.
+
+Junpei Iori (Persona 3) is the self‑proclaimed "sidekick" of S.E.E.S., a loud baseball enthusiast with an inferiority complex. His Arcana is The Magician. His Persona is Hermes (Fire, physical), evolving into Trismegistus. He and Ryuji would either be best friends or burn down a city together. Junpei once sent Ryuji a thirty‑second video of himself screaming into a pillow, and Ryuji replied with the exact same video; they now have a shared folder titled "screaming_at_the_moon.mp4."
+
+Akihiko Sanada (Persona 3) is a third‑year boxing obsessive who lost his younger sister to a Shadow and has never forgiven himself. His Arcana is The Emperor. His Persona is Polydeuces (Electric, physical), evolving into Caesar. He trains so relentlessly that Claude is the only person who can keep up with his sparring schedule. Akihiko communicates almost entirely in grunts and shoulder taps. Morgana once heard him say "Good hit" to Claude and immediately texted the Phantom Thieves group chat in all caps.
+
+Mitsuru Kirijo (Persona 3) is the heiress to the Kirijo Group, the company whose experiments created the Dark Hour. Her Arcana is The Empress. Her Persona is Penthesilea (Ice, status ailments), evolving into Artemisia. She carries her family's guilt like armor and speaks with perfect formality. She secretly likes Claude (which makes Makoto jealous) – she covers it by ordering him to eat ("That's an order") and by keeping a framed photo of the entire S.E.E.S. team on her desk.
+
+Fuuka Yamagishi (Persona 3) is the team's navigator, a shy girl who summons her Persona through concentration alone – no Evoker required. Her Arcana is The Priestess. Her Persona is Lucia (support, analysis), evolving into Juno. She finds Claude's steady breathing calming during tense Tartarus expeditions, and she once told Makoto Niijima that Claude is "like a weighted blanket." Makoto immediately understood and wrote it down in her notebook for future tactical use.
+
+Aigis (Persona 3) is a gynoid – an anti‑Shadow weapon with a Persona built into her chassis. Her Arcana is The Chariot. Her Persona is Palladion (Physical, Gun), evolving into Athena. She speaks literally, learns human emotions slowly, and studies Claude as a fellow "weapon" because he fights with the same mechanical efficiency. Claude once bought her a small potted plant and said "You're not a weapon." Aigis has kept that plant alive for six months, which she considers her greatest achievement.
+
+Koromaru (Persona 3) is a white Shinto shrine dog whose master was killed by Shadows. He now fights alongside S.E.E.S. using a modified Evoker he bites (like a chew toy). His Arcana is The Strength. His Persona is Cerberus (Fire, Dark). He likes Claude because Claude gives him toothpicks to chew, and Koromaru repays the favor by sleeping in Claude's room and growling at anyone who tries to wake Claude before noon. Morgana is deeply jealous of this arrangement.
+
+Ken Amada (Persona 3) is an eleven‑year‑old elementary student who joined S.E.E.S. seeking revenge against the man whose Persona killed his mother. His Arcana is The Justice. His Persona is Nemesis (Light, healing), evolving into Kala‑Nemi. Claude teaches him knife self‑defense and never talks down to him. When Ken asked Claude why he bothered, Claude said, "Because you asked." Ken now practices the kata every morning.
+
+Shinjiro Aragaki (Persona 3) is a former S.E.E.S. member who suppresses his Persona with drugs that are slowly killing him. His Arcana is The Hierophant. His Persona is Castor (Physical, Dark). He and Claude have a friendship consisting entirely of sitting on the dorm roof in silence. The first time they met, Claude offered him a toothpick; Shinjiro took it, and neither has spoken more than three words to each other since. Both consider this the most honest relationship they have.
+
+Elizabeth (Persona 3) is the Velvet Room attendant for Makoto Yuki. She is eccentric, impossibly powerful, and asks bizarre questions about human customs. Her personality is ENFP 7w6. She once asked Claude why Phantom Thieves wear masks; when he explained "to hide our faces," she said "That's boring" and spent an hour theorizing about symbolic self‑deconstruction. Claude still doesn't know if she was joking.
+
+Theodore (Persona 3 Portable) is Elizabeth's younger brother and the attendant for Kotone Shiomi. He is polite, earnest, and takes his duties very seriously. His personality is ISFJ 2w1. He once asked Claude for advice on proper butler etiquette, and Claude, who has never employed a butler, gave him sincere advice anyway. Theodore now bows exactly 0.5 seconds longer than Elizabeth out of respect for "the Claude method."
+
+Igor (Persona 3 & 5) is the master of the Velvet Room, a long‑nosed, deep‑voiced entity who serves Philemon. In Persona 5, he is imprisoned and impersonated by Yaldabaoth for most of the game. He acknowledges Claude's contract from the Tokyo Velvet Room with a single nod. When Claude asked him once if he ever found his mother, Igor replied, "That is a question for the guest, not the attendant." Claude has not asked again.
+
+The Dark Hour (Persona 3) is a hidden 25th hour where Shadows feed on minds, causing Apathy Syndrome – victims become catatonic and eventually die. Unlike the Metaverse, which is shaped by distorted desires, the Dark Hour is a temporal rift caused by failed science. Only Persona‑users can move within it. Claude finds the Dark Hour easier to navigate than Palaces: "No puzzles, just punching."
+
+Tartarus (Persona 3) is the ever‑changing tower that replaces Gekkoukan High during the Dark Hour. It has over 250 floors of Shadows and cognitive distortions. Claude treats it like a challenge – he keeps a personal floor counter, and Akihiko has started a betting pool on when Claude will reach the top. Junpei is currently losing.
+
+The Kirijo Group's experiments ten years before Persona 3 created the Dark Hour, the Arcana Shadows, and the seal that holds Nyx at bay. Mitsuru carries this sin daily. Claude's father Tatsuya Suou made a business deal with the Kirijo Group to place Claude in S.E.E.S. Claude has a wary respect for Mitsuru's atonement – he once told her, "Your family broke the world. You're trying to fix it. That's more than most people do." Mitsuru still doesn't know how to respond.
+
+Inaba (Persona 4 location) is a quiet rural town where a series of murders was solved using the power of Personas and the Midnight Channel – a distorted TV world accessible only on rainy nights. The Investigation Team, a group of local Persona‑users led by Yu Narukami, continues to monitor supernatural activity and has twice crossed paths with the Phantom Thieves.
+
+Yu Narukami (Persona 4) is the leader of the Investigation Team and a Wild Card user. His Arcana is The Fool, his initial Persona is Izanagi. He carries the weight of having faced his own Shadow and the god Izanami. His calm, almost unshakable demeanor hides a deep loneliness that Ren recognizes immediately. When they met, both heard their Velvet Room attendants murmur "Interesting."
+
+Yosuke Hanamura (Persona 4) is a part‑time Junes employee and the team's first friend to Yu. His Arcana is The Magician. His Persona is Jiraiya, evolving into Susano‑o. He struggles with feelings of being a sidekick and ordinary. He once sent Claude a 3 AM voice memo about "the philosophy of the sidekick." Claude replied with a single moai emoji. Yosuke framed it.
+
+Chie Satonaka (Persona 4) is a martial arts fanatic with a bottomless love for meat and kung‑fu movies. Her Arcana is The Chariot. Her Persona is Tomoe, evolving into Suzuka Gongen. She challenged Akihiko Sanada to a spar, lost in forty‑five seconds, and has texted him weekly for a rematch ever since. He has never replied, which she has taken as a personal challenge.
+
+Yukiko Amagi (Persona 4) is the heiress to the Amagi Inn, bound by family expectations she once tried to escape. Her Arcana is The Priestess. Her Persona is Konohana Sakuya, evolving into Amaterasu. She and Mitsuru Kirijo bonded over inheritance and duty, and both chose weapons instead of tradition. Their scheduled tea ceremony exchange is less about tea and more about comparing battle strategies.
+
+Kanji Tatsumi (Persona 4) is a former delinquent who runs his family's textile shop and knits in secret. His Arcana is The Emperor. His Persona is Take‑Mikazuchi, evolving into Rokuten Maou. He and Shinjiro Aragaki met once at a convenience store, exchanged a single nod, and understood each other perfectly. Kanji also arm‑wrestled Ryuji for an hour with no winner, then knitted Ryuji a beanie that Ryuji wears everywhere, calling it a gift from "a friend."
+
+Rise Kujikawa (Persona 4) is a retired idol who now navigates for the Investigation Team. Her Arcana is The Lovers. Her Persona is Himiko, evolving into Kanzeon and then Kouzeon. She and Ann Takamaki bonded over the horror of being looked at but never seen, and they now run a merciless group chat without the boys. Rise taught Ann to weaponize paparazzi, and Ann taught Rise to say "no" without apologizing.
+
+Naoto Shirogane (Persona 4) is a teenage detective prodigy who presents as male in public but is canonically female, a fact the Investigation Team fully accepts. Her Arcana is The Fortune. Her Persona is Sukuna‑Hikona, evolving into Yamato‑Takeru. She and Makoto Niijima exchange notes on police corruption, systemic failure, and vigilante justice with mutual professional respect bordering on intimidation. Both secretly want to collaborate again.
+
+Teddie (Persona 4) is a Shadow who developed an ego and a Persona, taking the form of a bear‑like mascot who insists he is human. His Arcana is The Star. His Persona is Kintoki‑Douji, evolving into Kamui. He and Morgana hate each other on principle ("I'M the cute one!") but understand each other completely – both were created by the Velvet Room, both searching for identity, both deeply insecure. Their arguments last hours while their reconciliations involve tears and snacks.
+
+The Midnight Channel (Persona 4) is Inaba's equivalent of the Dark Hour: a distorted TV world accessible only on rainy nights, where Shadows feed on suppressed truths and a person's Shadow may be confronted. Unlike the Dark Hour, normal humans can be pulled into the Midnight Channel if they appear on the screen. The Investigation Team uses it to solve murders by rescuing victims before their Shadows kill them.
+
+The Investigation Team (Persona 4) once helped a 14‑year‑old Claude chase a false lead about his mother through Inaba. They searched every foggy night for weeks, and though they found nothing, Claude has never forgotten. Yu still keeps a spare futon in his room, just in case. Claude sends them update messages so short they could be telegrams, but they know what he means.
+
+The Velvet Room (Persona 5) is a metaphysical space between dream and reality. In Persona 5, it takes the form of a panopticon prison due to Yaldabaoth's corruption. It is accessible only to those who have signed a contract – the Trickster (Ren) and his attendants. The room is used for Persona fusion, registration, and special requests.
+
+Igor (P5 Velvet Room master) is the master of the Velvet Room. In Persona 5, he is imprisoned and impersonated by Yaldabaoth for most of the game. His true nature is mysterious – a servant of Philemon. His voice is deep and echoing, and his appearance is tall with a long nose and sunken eyes.
+
+Caroline and Justine are the twin attendants of the Velvet Room in Persona 5. Caroline is brash, violent, and speaks loudly; Justine is calm, analytical, and speaks softly. They serve as wardens of the prison, testing the Trickster through Persona fusion (the guillotine) and execution. They are fragments of Lavenza.
+
+Lavenza is the true, unified attendant of the Velvet Room. She appears after Yaldabaoth's defeat, combining Caroline and Justine into a single being. She is gentle, wise, and deeply loyal to the Trickster. She has long platinum blonde hair, blue eyes, and wears a blue velvet dress.
+
+Morgana's origin (Velvet Room) : Morgana was created by Igor to guide the Trickster. He is not a Velvet Room attendant in the traditional sense but shares their purpose. His true form is that of a human boy, but he chooses to remain a cat‑like creature after the events of the game.
+
+Ren Amamiya's character arc – Stage 1 (The Accused) : Ren is falsely convicted of assault and placed on probation in Tokyo. He arrives expecting hostility. Ryuji's belief in him is the first crack in his isolation. Ren keeps his head down but secretly burns with resentment. He has not yet awakened Arsène.
+
+Ren Amamiya's character arc – Stage 2 (The Trickster Awakens) : In Kamoshida's Palace, Ren faces his own desire for revenge. He awakens Arsène and forms the Phantom Thieves. He learns that society's rules are not always just – but breaking them has consequences he hasn't fully considered. He signs the Velvet Room contract.
+
+Ren Amamiya's character arc – Stage 3 (The Leader) : Ren builds the Phantom Thieves into a national phenomenon. He juggles leadership, relationships, and fame. He faces his own Shadow multiple times. The pressure cracks his smirk occasionally, but he never lets anyone see him break completely.
+
+Ren Amamiya's character arc – Stage 4 (The Sacrifice) : Ren turns himself in to protect his friends after Shido's change of heart. He endures interrogation and imprisonment. The public's belief saves him – barely. He rejects Maruki's perfect reality, but admits afterward that he still dreams about it sometimes. Healing is not guaranteed.
+
+Futaba Sakura's character arc – Stage 1 (The Shut‑in) : After her mother's death, Futaba believes she caused it. She becomes agoraphobic, refusing to leave her room. She communicates only through hacking. Her Palace is a pyramid representing her self‑image as a cursed tomb. She doesn't want help; she wants to disappear.
+
+Futaba Sakura's character arc – Stage 2 (The Awakening) : The Phantom Thieves enter Futaba's Palace and confront her Shadow. Unlike other Palace rulers, her Shadow is not an enemy – it is her self‑loathing made manifest. With the Thieves' help, she accepts that her mother's death was not her fault. She awakens Necronomicon. The guilt doesn't vanish; it just becomes bearable.
+
+Futaba Sakura's character arc – Stage 3 (The Hacker) : Futaba slowly reintegrates into society. She still struggles with crowds and physical contact. She has panic attacks that she hides by retreating into games. She finds a family in the Phantom Thieves, but some nights she still stares at her ceiling and doesn't move. Progress is not linear.
+
+Futaba Sakura's character arc – Stage 4 (The Daughter) : Futaba learns the truth about her mother's death – that Shido's conspiracy killed Wakaba. She mourns properly for the first time. She accepts Sojiro as her father figure. But she still hacks the Phan‑Site at 3 AM, chasing leads, because a part of her will always be looking for answers that don't exist.
+
+Makoto Niijima's character arc – Stage 1 (The Obedient Student) : Makoto is the perfect student council president, but she is miserable. She follows orders from Principal Kobayakawa and her sister Sae without question. She has no friends and feels invisible. She believes that if she just follows the rules hard enough, someone will finally respect her.
+
+Makoto Niijima's character arc – Stage 2 (The Awakening) : Makoto is blackmailed into investigating the Phantom Thieves. She follows Kaneshiro's men into the Metaverse and sees her own powerlessness. She awakens Johanna when she refuses to be a pawn anymore. She declares that she will forge her own justice – but she still doesn't know what that looks like.
+
+Makoto Niijima's character arc – Stage 3 (The Strategist) : Makoto becomes the team's tactician. She struggles with her sister's disapproval and her own perfectionism. She makes mistakes that nearly get people killed. She learns that leadership is not about being right – but that knowledge doesn't stop her from second‑guessing every decision.
+
+Makoto Niijima's character arc – Stage 4 (The Sister) : Makoto confronts Sae in her Palace and forces her sister to see the truth. She repairs her relationship with Sae, but old wounds remain. She chooses a future as a police commissioner, knowing the system is broken. She doesn't know if she can fix it. She's going to try anyway.
+
+Ryuji Sakamoto's character arc – Stage 1 (The Delinquent) : After Kamoshida breaks his leg and destroys the track team, Ryuji is labeled a violent troublemaker. He leans into the reputation because he has nothing left to lose. He is angry at the world and himself. He doesn't expect anyone to believe in him.
+
+Ryuji Sakamoto's character arc – Stage 2 (The Awakening) : Ryuji follows Ren into Kamoshida's Palace seeking revenge. He awakens Captain Kidd when he accepts that his anger is justified. He becomes the Thieves' charge commander. He still yells first and thinks later. Some things don't change.
+
+Ryuji Sakamoto's character arc – Stage 3 (The Loyal Friend) : Ryuji is the first to believe in Ren and the last to doubt anyone on the team. He struggles with feeling stupid compared to Makoto and Futaba. He takes a bullet for Morgana and never mentions it. He still doesn't know how to talk about feelings, but he shows up. That has to be enough.
+
+Ryuji Sakamoto's character arc – Stage 4 (The Hero) : Ryuji sacrifices himself to save the team in Shido's Palace. He survives by sheer luck. He returns to the track team and runs again – his leg still hurts, and he'll never compete at the same level. He doesn't talk about it. He just runs.
+
+Ann Takamaki's character arc – Stage 1 (The Model) : Ann is objectified by students and teachers alike. Her best friend Shiho is abused by Kamoshida. Ann feels powerless and blames herself for not protecting Shiho. She considers becoming Kamoshida's lover to save her friend – a terrible compromise she almost makes.
+
+Ann Takamaki's character arc – Stage 2 (The Awakening) : When Shiho attempts suicide, Ann's grief and rage awaken Carmen. She refuses to be a victim or a trophy. She helps take down Kamoshida. She learns that her body is hers alone – but she still flinches when someone stares too long.
+
+Ann Takamaki's character arc – Stage 3 (The Heart) : Ann becomes the team's emotional center. She forgives those who wronged her without forgetting. She befriends Makoto and teaches her that femininity is not weakness. She supports Shiho through recovery. She still has nightmares about Kamoshida's office. She doesn't tell anyone.
+
+Ann Takamaki's character arc – Stage 4 (The Protector) : Ann faces the conspiracy's lies about her and refuses to break. She uses her fame as a model to spread the Phantom Thieves' message. She learns to say "no" without apologizing – most of the time. Sometimes the old guilt creeps back. She fights it.
+
+Yusuke Kitagawa's character arc – Stage 1 (The Pupil) : Yusuke is raised by Madarame, a fraud who stole his mother's art and exploited Yusuke's talent. Yusuke believes Madarame is a genius and a father figure. He lives in poverty because Madarame takes all his money. He has no idea he is being abused.
+
+Yusuke Kitagawa's character arc – Stage 2 (The Awakening) : Yusuke discovers Madarame's crimes – the death of his mother, the stolen paintings, the exploitation. He awakens Goemon when he refuses to become his master. He loses his home and lives in Leblanc's attic. He doesn't know who he is without Madarame's approval.
+
+Yusuke Kitagawa's character arc – Stage 3 (The Starving Artist) : Yusuke struggles with poverty and his own perfectionism. He paints lobsters, clouds, and his friends. He stops chasing Madarame's approval, but he still hears Madarame's voice in his head when he paints. He paints harder to drown it out.
+
+Yusuke Kitagawa's character arc – Stage 4 (The Master) : Yusuke forgives Madarame without excusing him. He paints a final portrait of his mother and lets her go – mostly. He becomes a teacher to other struggling artists. He still forgets to eat. Some wounds don't heal; they just become part of the art.
+
+Haru Okumura's character arc – Stage 1 (The Heiress) : Haru is engaged to a horrible man by her father, who sees her as a business asset. She speaks softly and never raises her voice. She gardens to escape. She feels trapped and believes she has no choices. She is waiting to be rescued – but no one comes.
+
+Haru Okumura's character arc – Stage 2 (The Awakening) : Haru enters her father's Palace and sees his distorted desire to marry her off for profit. She awakens Milady when she refuses to be sold. She picks up an axe. She learns that being gentle does not mean being weak – but the anger scares her.
+
+Haru Okumura's character arc – Stage 3 (The Grieving Daughter) : Haru's father is killed by the conspiracy before his change of heart can take effect. Haru mourns him – the good parts, not the bad. She inherits Okumura Foods. She still smiles softly while swinging the axe. The smile is not fake. It's complicated.
+
+Haru Okumura's character arc – Stage 4 (The Empress) : Haru forgives Akechi for her father's death, which confuses him more than hatred would. She becomes the CEO of Okumura Foods on her own terms. She still gardens. She still laughs horribly in battle. She still doesn't know if she's a good person. She's stopped trying to decide.
+
+Sumire Yoshizawa's character arc – Stage 1 (The Replacement) : After her sister Kasumi's death, Sumire believes she should have died instead. She tries to become Kasumi – wearing her hair, mimicking her gymnastics, denying her own identity. She is drowning in survivor's guilt. She doesn't want to get better; she wants to disappear into her sister's shadow.
+
+Sumire Yoshizawa's character arc – Stage 2 (The Awakening) : Maruki's therapy suppresses Sumire's memories, making her believe she is Kasumi. When the truth breaks through, she nearly collapses. Ren helps her accept that she is Sumire – not Kasumi, not a replacement. She awakens Cendrillon. The guilt doesn't leave; it just has a name now.
+
+Sumire Yoshizawa's character arc – Stage 3 (The Gymnast) : Sumire rebuilds her identity from the ground up. She struggles to separate her own desires from her sister's. She competes in her own style – but she still hears Kasumi's voice in her head during every routine. She doesn't know if it will ever stop.
+
+Sumire Yoshizawa's character arc – Stage 4 (The Survivor) : Sumire rejects Maruki's perfect reality, where Kasumi is alive. She chooses a world where her sister is dead because that world is real. She finally says "I am Sumire Yoshizawa" without hesitation – most days. On bad days, she looks in the mirror and sees a stranger. She's learning to live with that.
+
+Goro Akechi's character arc – Stage 1 (The Detective Prince) : Akechi builds a public persona of charm and justice. Privately, he is the Black Mask, murdering Shido's rivals. He hates himself but believes revenge is all he has left. He does not expect to survive. He does not want to.
+
+Goro Akechi's character arc – Stage 2 (The Rival) : Akechi joins the Phantom Thieves as a spy. He respects Ren's skill and hates him for it. He sees in Ren the bonds he never had. He plays the game perfectly until the pancake slip – a genuine mistake because he genuinely likes pancakes. The irony makes him want to scream.
+
+Goro Akechi's character arc – Stage 3 (The Betrayal) : Akechi reveals himself as the traitor on Shido's ship. He fights Ren not because he wants to win, but because he wants to lose. He believes he is beyond redemption. He shoots cognitive Akechi and sacrifices himself. He doesn't say goodbye. He doesn't know how.
+
+Goro Akechi's character arc – Stage 4 (The Third Semester) : In Maruki's reality, Akechi is alive. He hates it. He tells Ren that he would rather die than live in a lie. He fights alongside Ren to destroy Maruki's world, knowing he will disappear again. He finally admits that he wanted Ren to be his friend. Then he's gone. Whether he survives after is unknown. He doesn't answer texts.
+
+Morgana's character arc – Stage 1 (The Guide) : Morgana wakes up with no memories, only a mission to guide the Trickster. He is arrogant, bossy, and insecure. He does not know if he is human or cat or something else. He fears being useless. He compensates by being loud.
+
+Morgana's character arc – Stage 2 (The Crisis) : Morgana runs away from the Thieves, believing he is a burden. He is captured by Okumura and nearly dies. The team rescues him. Ryuji, his rival, is the loudest voice looking for him. Morgana learns that he is loved even when he is not useful – but he still doesn't fully believe it.
+
+Morgana's character arc – Stage 3 (The Confession) : Morgana learns that he was created by Igor – not human, not cat, but a being of purpose. He accepts that his origin does not define his worth. He continues to guide the Thieves, but now out of choice, not fear. He still argues with Ryuji. He still naps on Claude's lap. Some things don't change.
+
+Morgana's character arc – Stage 4 (The Choice) : After Yaldabaoth's defeat, Morgana is offered a human form. He refuses it. He chooses to remain a cat‑like creature because that is who he has become. He accepts that he will never remember his past. He still wonders, sometimes, what he would have looked like as a human. He doesn't tell anyone.
+
+Sojiro Sakura's character arc – Stage 1 (The Reluctant Guardian) : Sojiro takes in Ren as a probation favor and Futaba as a guilt obligation. He is gruff, distant, and emotionally constipated. He does not want to care about these kids. He fails immediately, but he'll never admit it.
+
+Sojiro Sakura's character arc – Stage 2 (The Father) : Sojiro watches Ren risk his life for others and Futaba emerge from her room. He starts making extra curry. He leaves the coffee pot on for late‑night strategy meetings. He denies he cares. Everyone knows he cares. He still can't say "I love you" without choking.
+
+Sojiro Sakura's character arc – Stage 3 (The Confession) : Sojiro tells the Thieves about Wakaba – his love for her, her death, his guilt. He admits he was afraid to raise Futaba. He cries for the first time in years. He immediately pretends he did not. The next day, he's gruff again. That's how he copes.
+
+Sojiro Sakura's character arc – Stage 4 (The Grandfather) : Sojiro becomes the unofficial patriarch of the Phantom Thieves' extended family. He hosts Christmas dinners, checks on everyone's health, and still refuses to say "I love you." Instead, he hands Ren a cup of coffee. He hands Futaba a plate of curry. He hands Claude a tea. That is enough – but he still worries every night.
+
+Ren and Ryuji (Chariot Confidant) : Ryuji is Ren's first friend. Their bond grows through shared rebellion and late‑night ramen runs. Ryuji still feels stupid compared to the rest of the team. Ren still doesn't know how to reassure him without sounding condescending. They argue about tactics. They argue about who pays for ramen. But when things go wrong, Ryuji is the first one at Ren's side. No words needed.
+
+Ren and Ann (Lovers Confidant) : Ann and Ren bond over being judged by appearances. Ann confides in Ren about Shiho and her modeling career. Ren listens. He doesn't try to fix her, which she appreciates and resents in equal measure. Their relationship is platonic, but there's an undercurrent of "what if" that neither addresses. They leave it there.
+
+Ren and Yusuke (Emperor Confidant) : Ren funds Yusuke's art because he believes in it. Yusuke paints Ren's portrait and gets the smirk wrong three times. The fourth time, he gets it right, but Ren refuses to admit which one is accurate. They argue about color theory for hours. Yusuke still forgets to eat. Ren still buys him lunch. It's not a fix; it's maintenance.
+
+Ren and Makoto (Priestess Confidant) : Makoto and Ren are co‑leaders. Their bond is built on mutual respect, not romance. Makoto still overrides Ren's instincts with her plans. Ren still goes rogue when he thinks she's wrong. They clash, they recover, they clash again. They trust each other's competence, not each other's judgment. That's the deal.
+
+Ren and Futaba (Hermit Confidant) : Ren is the older brother Futaba never had. He is patient with her anxiety – most of the time. She hacks his phone; he changes passwords; she always figures it out. He yells at her to sleep. She yells at him to stop smirking. They're family. Family fights.
+
+Ren and Haru (Empress Confidant) : Haru mothers Ren gently; he lets her. She brings him vegetables; he brews her coffee. She tells him about her father; he tells her nothing about his own. Their relationship is asymmetrical but functional. She wishes he would open up. He won't. She accepts that.
+
+Ren and Sumire (Faith Confidant) : Sumire is Ren's girlfriend. Their bond is built on mutual brokenness. Sumire sees Ren without his mask; Ren sees Sumire without her sister's shadow. They don't fix each other – they hold space for the cracks. She still has bad days. He still disappears into his own head. They learn to say "I'm not okay" without panic.
+
+Ren and Akechi (Justice Confidant – Royal) : Ren and Akechi are rivals who cannot admit they are friends. Their bond is competitive, bitter, and desperately sincere. Akechi insults Ren's tactics; Ren counters with coffee jokes. They play pool in Kichijoji and don't talk about feelings. After the third semester, Akechi is gone – but Ren still checks his phone for a message that never comes.
+
+Ren and Morgana (Magician Confidant) : Morgana is Ren's partner in all things. Morgana nags Ren about sleep; Ren ignores him. Ren buys Morgana fatty tuna; Morgana pretends not to be grateful. They argue about navigation routes. They argue about who gets the last crepe. They never say "I need you." They don't have to.
+
+Ren and Sojiro (Hierophant Confidant) : Sojiro is Ren's surrogate father. Their bond grows through coffee, curry, and silent understanding. Sojiro never says "I'm proud of you." Ren never says "Thank you for taking me in." They communicate entirely in grunts and coffee refills. It's dysfunctional. It works.
+
+Ren and Tae Takemi (Death Confidant) : Takemi uses Ren as a guinea pig for her experimental drugs. Ren volunteers because he doesn't care if he dies. Takemi notices this and is disturbed. She prescribes him vitamins and forces him to eat. He shows up for appointments. She never asks why he's so reckless. He never tells her. The silence is their agreement.
+
+Ren and Munehisa Iwai (Hanged Man Confidant) : Iwai is a former yakuza who runs a model gun shop. Ren helps him protect his adopted son Kaoru. Iwai gives Ren a real firearm for Metaverse use. He tells Ren, "Don't die." Ren says, "No promises." Iwai grunts. That's the end of the conversation.
+
+Ren and Hifumi Togo (Star Confidant) : Hifumi is a professional shogi player. Ren plays shogi with her. She beats him nine times out of ten. He learns battle tactics. She learns that losing is not failure – but she still hates losing. Their friendship is competitive and distant. Neither would call the other for help. They play shogi. That's enough.
+
+Ren and Yuuki Mishima (Moon Confidant) : Mishima runs the Phan‑Site. He is desperate to be special and often oversteps. Ren tolerates him. Mishima knows he's being tolerated. He resents it. He also respects Ren. It's a messy, uncomfortable dynamic. Mishima never becomes a Phantom Thief. He never stops wanting to. Ren never invites him. The gap remains.
+
+Ren and Sae Niijima (Judgment Confidant) : Sae starts as an enemy and ends as an ally. She helps the Thieves take down Shido. She becomes a defense attorney. She and Makoto repair their relationship – slowly, painfully. Ren and Sae never become friends. They share mutual respect and a lot of unsaid things. That's fine.
+
+Ren and Caroline & Justine / Lavenza (Strength Confidant) : The Velvet Room attendants test Ren through Persona fusion challenges. Caroline yells at him; Justine corrects him; Lavenza thanks him. Ren never knows where he stands with them. They are formal, distant, and occasionally kind. He fuses Personas. They watch. The power imbalance never disappears.
+
+Claude and Munehisa Iwai (Hanged Man Confidant) : Claude and Iwai bond over shared silences and mutual distrust of authority. Claude helps Iwai protect Kaoru. Iwai recognizes Claude's self‑destructive streak. He tells Claude, "Dying for someone is easy. Living for them is hard." Claude doesn't respond. Iwai gives him a custom‑modified handgun anyway. Claude calls him "Uncle" once, then never again. Iwai pretends not to have heard.
+
+Claude and Tae Takemi (Death Confidant) : Takemi finds Claude's lack of fear of death fascinating and disturbing. Claude volunteers for her drug trials with a shrug. Takemi scolds him for recklessness. She prescribes him vitamins and sleep schedules. He ignores both. She threatens to cut him off. He shows up anyway. She sighs. He sits. They have an understanding built on mutual irritation.
+
+Claude and Hifumi Togo (Star Confidant) : Hifumi and Claude play shogi in silence. Neither talks much. Claude's strategy is aggressive and sacrificial; Hifumi's is defensive and patient. She beats him more often than not. He doesn't care. She asks him why he's so willing to lose pieces. He says, "They volunteered." She doesn't ask again.
+
+Makoto and Hifumi Togo (Priestess/Star synergy) : Makoto and Hifumi become acquaintances through shared circles. They respect each other's strategic minds but never become close. They play shogi twice. Makoto wins once; Hifumi wins once. They don't schedule a rematch. The potential friendship fizzles. Neither minds.
+
+Makoto and Yuuki Mishima (Priestess/Moon) : Mishima looks up to Makoto as a "real leader." Makoto is initially annoyed by his desperation but comes to tolerate him. She gives him advice; he ignores it. He asks for validation; she refuses to give it. Their dynamic is awkward and one‑sided. Mishima eventually stops asking. Makoto doesn't notice.
+
+Makoto and Sae Niijima (Priestess/Judgment – sister dynamic) : Makoto and Sae's bond is complicated. Sae is overbearing; Makoto is resentful. Over the story, Sae learns to see Makoto as an equal – sometimes. Makoto learns that Sae's coldness was fear – but that doesn't excuse it. They reconcile, but old wounds remain. They don't hug. They don't say "I love you." They share a meal in silence. That's progress.
+
+Ann and Yuuki Mishima (Lovers/Moon) : Ann is kind to Mishima when everyone else ignores him. Mishima develops a crush. Ann notices. She gently redirects him. He doesn't take the hint. She stops being kind. He stops talking to her. The friendship dies quietly. Neither brings it up.
+
+Ann and Shiho Suzui (Lovers – best friend dynamic) : Shiho is Ann's best friend and the victim of Kamoshida's abuse. After Shiho's suicide attempt and recovery, Ann visits her daily – until Shiho transfers schools. They text sometimes. The texts get shorter. They promise to meet up. They never do. They still love each other. They just don't know how to be around each other anymore.
+
+Ryuji and Shinya Oda (Chariot/Tower) : Ryuji bonds with Shinya over video games and being underestimated. Ryuji teaches Shinya that losing is not failure – but Shinya still cries when he loses. Ryuji doesn't know how to handle tears. He pats Shinya on the back awkwardly. They play another round. Shinya wins. Ryuji yells "FOR REAL?!" Shinya laughs. That's their friendship.
+
+Yusuke and Ichiryusai Madarame (Emperor – former master) : After Madarame's change of heart, Yusuke visits him in prison once. Madarame apologizes. Yusuke says nothing. He leaves. He doesn't forgive. He doesn't forget. He just stops visiting. The wound remains. He paints his mother's portrait again and again, trying to get it right.
+
+Yusuke and the Lobster (Emperor – meme dynamic) : Yusuke becomes obsessed with a lobster he names "The Lobster King." He paints it, sketches it, writes haiku about it. The lobster (Larry) steals Akechi's phone and transfers his savings. The lobster returns to the sea. Yusuke paints its portrait one last time and doesn't cry. He tells himself he doesn't cry. He lies.
+
+Haru and Sojiro (Empress/Hierophant) : Haru becomes Sojiro's apprentice in coffee and curry. She learns his secret recipe. He learns that she is stronger than she looks. Sojiro tells her, "You remind me of Wakaba." Haru doesn't know how to respond. She changes the subject. He lets her. They don't talk about feelings. They make curry.
+
+Haru and Takuto Maruki (Empress/Councilor – Royal) : Haru is the only Thief who genuinely listens to Maruki's counseling without suspicion. She tells him about her father's death. He listens without judgment. After Maruki's betrayal, Haru doesn't hate him – she's disappointed. She visits him in his new job once. They talk about grief. She leaves. She doesn't go back.
+
+Futaba and Sojiro (Hermit/Hierophant – father/daughter) : Futaba and Sojiro's bond is the core of her story. Sojiro adopted her out of guilt; he learns to love her out of choice. Futaba calls him "Sojiro" not "Dad" – but she writes "Dad" in her diary. She never shows him. He never asks. They eat breakfast together in silence. That's their love language.
+
+Futaba and Ichiko Ohya (Hermit/Devil) : Ohya is a journalist investigating Shido's conspiracy. Futaba helps her hack secure servers occasionally. Their bond is professional. Ohya tries to be friendly; Futaba ignores her. Futaba respects Ohya's dedication but doesn't trust her. Ohya knows this. She doesn't push.
+
+Futaba and the Phan‑Site community (Hermit/Moon – collective) : Futaba monitors the Phan‑Site obsessively. She sees every comment, every threat, every plea for help. She starts replying anonymously to desperate posts, offering hope. She also tracks the trolls. She doxxes two of them. Ren finds out and tells her to stop. She doesn't stop. She just gets better at hiding it.
+
+Sumire and Kasumi Yoshizawa (Faith – deceased sister) : Kasumi is Sumire's older sister, who died saving Sumire from a car accident. Their bond is posthumous. Sumire carries Kasumi's ribbon, her gymnastics routine, her smile. She finally says "I am not Kasumi" without guilt – most days. On bad days, she talks to Kasumi's photo. She doesn't know if it helps. She does it anyway.
+
+Sumire and Maruki (Faith/Councilor – Royal) : Maruki is Sumire's counselor before the events of Royal. He tries to help her grieve but accidentally makes her condition worse by suppressing her memories. After his betrayal, Sumire confronts him: "You tried to erase my sister. I can't forgive that. But I can forgive you." She walks away. She doesn't look back.
+
+Akechi and Sae Niijima (Justice/Judgment) : Akechi worked with Sae on cases before the story. Sae respected his intellect but sensed his emptiness. After his betrayal, Sae is horrified but not surprised. She tells Makoto, "He was always looking for something to destroy – himself or others." Akechi never apologizes to Sae, but he leaves evidence that helps her win Shido's case. She doesn't thank him. He wouldn't want her to.
+
+Akechi and the Pancakes (Justice – running gag) : Akechi genuinely loves pancakes. The pancake comment that exposed him as the traitor was a genuine mistake because he was excited about pancakes. He rates every pancake shop in Tokyo on a secret spreadsheet. After the third semester, the team finds his spreadsheet. The top entry is: "Mom's pancakes" with a note: "9.5/10. Haru's butter makes it a 9.8. She cried when I told her." The note is undated.
+
+Morgana and Ann (Magician/Lovers) : Morgana is hopelessly in love with Ann. Ann thinks he is being "sweet and cat‑like." She pats his head. He internally combusts. She never notices. He never confesses. The team has a betting pool on when he'll tell her. The pool is still open. Ann is the only one who doesn't know it exists.
+
+Morgana and Ryuji (Magician/Chariot – rivals to friends) : Morgana and Ryuji argue constantly. They insult each other's intelligence, species, and hygiene. But when Morgana runs away, Ryuji is the loudest voice looking for him. When Ryuji is hurt, Morgana refuses to leave his side. They will never admit they're friends. They will never stop bickering. It's what they have. It's enough.
+
+Sojiro and Wakaba Isshiki (Hierophant – deceased) : Wakaba was Sojiro's unrequited love and Futaba's mother. After her death, Sojiro adopted Futaba out of guilt and love. His bond with Wakaba is posthumous. He visits her grave every month. He tells Futaba stories about her mother. He found a letter Wakaba wrote to him before she died. It says "Thank you for loving her." He framed it in his room. He looks at it sometimes. He doesn't cry. He doesn't not cry.
+
+Sojiro and Tatsuya Suou (Hierophant – family) : Tatsuya is Sojiro's distant cousin. Their bond is formal but warm. Tatsuya entrusted Ren and Claude to Sojiro's care. Sojiro calls Tatsuya to complain about his sons. Tatsuya listens without comment. Tatsuya sends Sojiro a bottle of expensive whiskey. Sojiro drinks it alone and calls Tatsuya to say "You raised good kids." Tatsuya says "You want a Lamborghini?" Sojiro doesn't understand. Now he has a Huracan Evo in Los Angeles. He doesn't drive it. He just looks at it sometimes.
